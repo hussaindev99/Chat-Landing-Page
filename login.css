@@ -1,0 +1,106 @@
+.imghea {
+    display: flex;
+    align-items: center;
+    margin: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.images{
+    padding-right: 15px;
+}
+
+.googlebtn {
+    padding-left: 10px;
+ }
+
+.Responses {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: black;
+    padding-top: 20px;
+    height: 50px;
+    width:240px ;
+    font-size: 20px;
+    border: rgb(196, 236, 215);
+    margin: 0px auto;
+}
+
+.pospon {
+    width: 100%;
+    display: flex;
+}
+
+.imghead {
+    display: flex;
+    width: 32px;
+    height: 32px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.typee {
+    width: 50%;
+    padding-top: 150px;
+     text-align: center; 
+}
+
+.imsection {
+    width: 50%;
+    height: 700px;
+}
+.imghuend{
+height: 700px;
+}
+
+.inputtt {
+    width: 100%;
+    height: 40%;
+}
+
+.gmaig {
+    width: 250px;
+    height: 30px;
+    border-radius: 8px;
+    border: 0cap;
+    background: whitesmoke;
+}
+
+.passwoord {
+    width: 250px;
+    height: 30px;
+    border-radius: 8px;
+    border: 0cap;
+    background: whitesmoke;
+}
+.passwopad{
+    padding-right: 180px;
+}
+.passwopa{
+    padding-right: 210px;
+}
+.sigbutt {
+    width: 250px;
+    height: 35px;
+    border-radius: 8px;
+    background: #265EE1;
+    color: white;
+}
+.ceheak{
+    font-size: 12px;
+    margin:0px auto ;
+}
+ .buttsigup{
+    display: flex;
+    padding: 10px;
+    text-align: center;
+    font-size: 12px;
+    justify-content: center;
+    padding-top: 30px;
+}   
+.ceheak{
+    display: flex;
+    font-size: 10px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
